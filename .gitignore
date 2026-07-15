@@ -1,0 +1,9 @@
+# The source dataset is 493 MB and cannot be stored in a normal GitHub repository.
+archive/AIML Dataset.csv
+
+# Python-generated files and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
